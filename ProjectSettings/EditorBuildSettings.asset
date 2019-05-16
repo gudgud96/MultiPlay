@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Main_Page.unity
+    guid: 0e03e1fbf4f55934ea156b4ac90af41d
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: baf1186ce678f9f478adb101bb129f53
+  - enabled: 1
+    path: Assets/Scenes/TimeBombMaze.unity
+    guid: 942ff27cb7e30364ea08c74e5cb4a087
+  - enabled: 0
+    path: Assets/Scenes/TimeBomb.unity
+    guid: 89ad2568b3f6927478ae07e8e0ec9b7a
+  - enabled: 1
+    path: Assets/Scenes/MazeFruitDrop.unity
+    guid: f762b24593dc26143a3b4bf877bf8b82
+  - enabled: 1
+    path: Assets/Scenes/FruitDropTimeBomb.unity
+    guid: e247c93e05058ad44beb587c08894e22
+  - enabled: 1
+    path: Assets/Scenes/Score.unity
+    guid: 0110ddd9b282e4c46bf68e264e8d66cd
+  - enabled: 1
+    path: Assets/Scenes/OverallProgress.unity
+    guid: bdb29186c21dfcc46ac80aae1b758278
+  - enabled: 1
+    path: Assets/Scenes/Help.unity
+    guid: a349b062ba587f0428d810829a27e8b8
+  m_configObjects: {}
